@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\HR\TextCensorer\bin\Debug\TextCensorer.exe.config
+C:\Users\DELL\source\repos\HR\TextCensorer\bin\Debug\TextCensorer.exe
+C:\Users\DELL\source\repos\HR\TextCensorer\bin\Debug\TextCensorer.pdb
+C:\Users\DELL\source\repos\HR\TextCensorer\obj\Debug\TextCensorer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\HR\TextCensorer\obj\Debug\TextCensorer.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\HR\TextCensorer\obj\Debug\TextCensorer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HR\TextCensorer\obj\Debug\TextCensorer.exe
+C:\Users\DELL\source\repos\HR\TextCensorer\obj\Debug\TextCensorer.pdb
